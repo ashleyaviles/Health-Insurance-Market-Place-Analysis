@@ -8,6 +8,7 @@ Boulder, Colorado is the 12th most populous city in Colorado. Boulder residents 
 ![image](https://user-images.githubusercontent.com/97060707/194593016-c76f3382-1848-41a6-9833-9942f57bbb2e.png)
 
 What kind of health insurance can a resident more readily get? 
+
 Residents can ger all metal levels are offered except Platinum plans. This means residents are not given the option of having one of the most generous insurance plans available throughout other insurance markets. Silver plans are the most prevalent plans with 35 offered on the market, followed by Expanded Bronze plans with 25, Gold plans with 13, Bronze with seven, and lastly, Catastrophic plans with six plans offered in the market (See Figure 2).  Since Silver plans are the most common metal level plans in the market, residents are more likely to have a plan that covered about 70% of their healthcare costs. 
 
 <img width="467" alt="image" src="https://user-images.githubusercontent.com/97060707/194593375-1cf7a8e4-48b2-498e-a039-6ff607f7193b.png">
