@@ -5,7 +5,6 @@ Exploring Boulder Colorado’s Individual Health Insurance Market in 2021
 Who participates in Boulder’s Individual Insurance Market?
  
 Boulder, Colorado is the 12th most populous city in Colorado. Boulder residents reside in a competitive induvial insurance market. The Boulder, Colorado market has a total of seven insurance companies offering coverage through the individual market. Collectively the insurers are offering 86 different plans (figure 1). The types of plans offered by the insurers on the market are primarily Health Maintenance Organizations (57%) or Exclusive Provider Organizations (43%). Within the market Anthem, Friday Health, Kaiser Permanente, and Rocky Mountain Health all exclusively offer HMO plans, while Bright Health, Cigna, and Oscar offer exclusively EPO plans. While the market has plenty of health plans to choose from, the types of plans (EPOs and HMOs) leave Boulder residents with insurance plans with little flexibility to choose providers outside of their selected plan’s provider network. 
-
 ![image](https://user-images.githubusercontent.com/97060707/194593016-c76f3382-1848-41a6-9833-9942f57bbb2e.png)
 
 What kind of health insurance can a resident more readily get? 
@@ -26,7 +25,7 @@ In the Boulder market, there are mostly Silver plans, but if relatively healthy 
 
 
 
-The future of Colorado’s Individual Marketplace
+The Future of Colorado’s Individual Marketplace
 
  In terms of competition, individual market shoppers have many different carriers to choose from in this market and different health plans to choose from as well. To be able to compete, while meeting the federally mandated guidelines, in highly competitive environments insurers tend to move towards more narrow networks and cut out plans to be able to control their premium prices. Premiums are the primary way to attract more enrollees since they are willing to trade breadth of network and benefits for lower premiums. Based on this and the Boulder market I believe that the lower premium carriers such as Oscar and Friday Health will pressure the highest priced carriers-- Anthem, Cigna, and Kaiser Permanente-- to lower their premiums. A way that they might choose to do so is by slashing the number of plans they offer in the market. Therefore, the market can potentially see these three carriers reduce the number of more prevalent plans in the market (Expanded_bronze and Silver plans) or the most generous plans on the market (Silver, and Gold plans) (See Figure 5). On the other hand, Cigna which already has a small number of offerings, yet has an on average more expensive monthly premium, might not choose to lessen the number of plans they offer but play around with the metal level offerings and their actuarial values. Overall, these carriers are in a competitive market and can choose to compete by lower the number of plans offered and revisiting which metal-level plans they offer. Thus, this might leave the residents of Boulder with a tighter market during open enrollment for 2022. 
 
