@@ -5,7 +5,7 @@ Exploring Boulder Colorado’s Individual Health Insurance Market in 2021
 Who participates in Boulder’s Individual Insurance Market?
  
 Boulder, Colorado is the 12th most populous city in Colorado. Boulder residents reside in a competitive induvial insurance market. The Boulder, Colorado market has a total of seven insurance companies offering coverage through the individual market. Collectively the insurers are offering 86 different plans (figure 1). The types of plans offered by the insurers on the market are primarily Health Maintenance Organizations (57%) or Exclusive Provider Organizations (43%). Within the market Anthem, Friday Health, Kaiser Permanente, and Rocky Mountain Health all exclusively offer HMO plans, while Bright Health, Cigna, and Oscar offer exclusively EPO plans. While the market has plenty of health plans to choose from, the types of plans (EPOs and HMOs) leave Boulder residents with insurance plans with little flexibility to choose providers outside of their selected plan’s provider network. 
-![image](https://user-images.githubusercontent.com/97060707/194593016-c76f3382-1848-41a6-9833-9942f57bbb2e.png)
+<img width="440" alt="image" src="https://user-images.githubusercontent.com/97060707/194594030-b00f5d01-26b9-4a1e-ac51-fa74df5c4d49.png">
 
 What kind of health insurance can a resident more readily get? 
 
