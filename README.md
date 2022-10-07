@@ -8,12 +8,10 @@ Boulder, Colorado is the 12th most populous city in Colorado. Boulder residents 
 
 ![image](https://user-images.githubusercontent.com/97060707/194593016-c76f3382-1848-41a6-9833-9942f57bbb2e.png)
 
-
 What kind of health insurance can a resident more readily get? 
 Residents can ger all metal levels are offered except Platinum plans. This means residents are not given the option of having one of the most generous insurance plans available throughout other insurance markets. Silver plans are the most prevalent plans with 35 offered on the market, followed by Expanded Bronze plans with 25, Gold plans with 13, Bronze with seven, and lastly, Catastrophic plans with six plans offered in the market (See Figure 2).  Since Silver plans are the most common metal level plans in the market, residents are more likely to have a plan that covered about 70% of their healthcare costs. 
 
 <img width="467" alt="image" src="https://user-images.githubusercontent.com/97060707/194593375-1cf7a8e4-48b2-498e-a039-6ff607f7193b.png">
-
 
 Anthem offers the most variety of health plans to Boulder residents with 22 total plans, followed by Bright Health with 16 plan offerings and both Oscar and Kaiser Permanente with 12 different plans.  However, Anthem’s average premium of $313.89* is the most expensive insurance carrier in the market with a premium of $313.89 compared to the market average of $289.72 (See Figure 3). Anthem on average also has the most expensive plan across all metal levels compared to its competitors. On the other hand, Bright Health offers the second most variety in the market but is less expensive than the market average monthly premium. Cigna offers little variety to the market, with only 12 plan offerings, but its monthly premium is the second most expensive than the market average. 
 
