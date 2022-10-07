@@ -39,4 +39,4 @@ The Future of Colorado’s Individual Marketplace
 
 
 
-Notes: *Average premiums are calculated using the premium per month of a non-smoking 27-year. Source: 2021 HIX Compare: https://www.cms.gov/CCIIO/Programs-and-Initiatives/Health-Insurance-Market-Reforms/co-grahttps://www.cms.gov/CCIIO/Programs-and-Initiatives/Health-Insurance-Market-Reforms/co-gra ![image](https://user-images.githubusercontent.com/97060707/194593179-026b9a12-1218-4bcd-abd8-04ef35d26307.png)
+Notes: *Average premiums are calculated using the premium per month of a non-smoking 27-year. Source: 2021 HIX Compare: https://www.cms.gov/CCIIO/Programs-and-Initiatives/Health-Insurance-Market-Reforms/co-gra
